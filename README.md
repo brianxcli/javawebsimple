@@ -9,7 +9,7 @@ Additionally, I used Tomcat as my server application. It's free and popular in t
 MySQL is commonly used, and the JSP framework is convenient to connect to MySQL using .xml configuration file. In the server.xml file of Tomcat, tags called <Connector> is used to connect databases.
 
 ## 3. Time I took to finish the project
-1> Development platform building: 1 hour including technical selection, tools downloading, project creation, reading documents;
-2> Review syntax of frameworks: 2 hours;
-3> Coding & Debugging: 1.5 hours;
-4> Writing the report: 0.5 hours
+1. Development platform building: 1 hour including technical selection, tools downloading, project creation, reading documents;
+2. Review syntax of frameworks: 2 hours;
+3. Coding & Debugging: 1.5 hours;
+4. Writing the report: 0.5 hours
