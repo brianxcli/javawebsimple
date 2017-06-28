@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <%@ taglib prefix="s" uri="/struts-tags" %>
 <html>
+	<head>
+		<s:head/>
+	</head>
 	<body>
 		<h3>Currently available in our shop:</h3>
 		<s:iterator value="itemList">
